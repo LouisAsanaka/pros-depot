@@ -1,7 +1,7 @@
 [
 	{
 		"metadata": {
-			"location": "https://louisasanaka.github.io/pros-depot/vscode-template@1.0.0.zip"
+			"location": "https://louisasanaka.github.io/pros-louis-depot/vscode-template@1.0.0.zip"
 		},
 		"name": "vscode-template",
 		"py/object": "pros.conductor.templates.external_template.ExternalTemplate",
