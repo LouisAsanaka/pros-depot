@@ -1,12 +1,12 @@
 [
 	{
 		"metadata": {
-			"location": "https://louisasanaka.github.io/pros-louis-depot/vscode-template@1.0.3.zip"
+			"location": "https://louisasanaka.github.io/pros-louis-depot/vscode-template@1.0.4.zip"
 		},
 		"name": "vscode-template",
 		"py/object": "pros.conductor.templates.external_template.ExternalTemplate",
 		"supported_kernels": null,
 		"target": "v5",
-		"version": "1.0.3"
+		"version": "1.0.4"
 	}
 ]
